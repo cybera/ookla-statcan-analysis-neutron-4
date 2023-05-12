@@ -98,7 +98,7 @@ complete.
 Both can be run in sequence from this directory as:
 ```bash
 python scripts/data/process_raw_ookla_faster.py
-python scripts/data/create_overlays.py
+python scripts/data/create_overalys.py
 ```
 
 The defined modules/functions in the `src/datasets/loading` directory are designed to download necessary StatCan files as needed.
